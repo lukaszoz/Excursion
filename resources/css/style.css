@@ -14,8 +14,9 @@ body {
     font-size: 42px;
     color: #fff; 
 }
-.header--subsecondery {
-    font-size: 42px;
+.header--sub-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
     color: gray;
 } 
 /*links*/
