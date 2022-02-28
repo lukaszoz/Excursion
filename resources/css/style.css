@@ -24,3 +24,9 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+/*Footer*/
+.Symbol {
+    font-size: 20px;
+    text-align: right;
+    color: gray;
+}
